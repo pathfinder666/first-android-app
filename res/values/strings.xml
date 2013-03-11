@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">InReader</string>
+    <string name="menu_settings">Settings</string>
+    <string name="news_topics">News topics</string>
+    <string name="add_button">+</string>
+    <string name="hint_message">Enter skill name</string>
+    <string name="ok_button">OK</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_news">NewsActivity</string>
+
+</resources>
